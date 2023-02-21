@@ -1,4 +1,10 @@
-<p>I am an evolutionary biologist interested in combining experimental and 
+---
+layout: page
+title: About me
+permalink: /about/
+---
+
+I am an evolutionary biologist interested in combining experimental and 
 theoretical approaches to understand social systems. I develop mathematical 
 and computational models of the evolution of social behaviours, and I have 
 done field experiments to discover the mechanisms behind these social behaviours. 
@@ -15,5 +21,5 @@ photographer, but I like taking pictures very much. If you want, the take
 a look at some of my pics below. Partly due to my Colombian background I 
 have strong opinions about drugs and drug policy. I tried to explain some of 
 those opinions in a essay, if you are interested and can understand Spanish 
-ask me for a copy.</p>
+ask me for a copy.
 
