@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: About me
-permalink: /about/
 ---
 
 I am an evolutionary biologist interested in combining experimental and 
