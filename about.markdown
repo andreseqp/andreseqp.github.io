@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About me
+title: "About me"
 ---
 
 I am an evolutionary biologist interested in combining experimental and 
